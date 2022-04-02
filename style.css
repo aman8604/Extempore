@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+a{
+    text-decoration: none;
+}
+
+section{
+    padding: 0 8rem;
+    padding-bottom: 2rem;
+}
+
+/* Main Section */
+
+.main{
+    background-color: #2FA4FF;
+}
+
+.brand-name{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    font-size: 1.6rem;
+}
+
+.brand-name,.menu-item{
+    color: #fff;
+}
+
+.menu-item{
+    margin: auto 1rem;
+}
+
+.main-container-left{
+    text-align: left;
+}
+
+#main-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    color: #fff;
+    margin-bottom: 2rem;
+    line-height: 1.5;
+}
+
+.main-container-right{
+    text-align: right;
+}
+
+#main-img{
+    width: 80%;
+    height: 80%;
+}
+
+/* Team Section */
+
+#team-heading{
+    margin: 2.25rem auto 1rem auto;
+    font-weight: 500;
+}
+
+.team-members-images{
+    border-radius: 100%;
+    width: 50%;
+    margin: 1.25rem auto 1rem auto;
+}
+
+.team-members-name{
+    font-weight: 500;
+}
+
+/* contact us Section */
+
+.contact-us{
+    background-color: #2FA4FF;
+    color: #fff;
+    padding-top: 0.5rem;
+    padding-bottom: 0.2rem;
+}
+
+#contact-heading{
+    font-size: 2rem;
+    margin: 1rem auto;
+}
+
+.contact-icons{
+    width: 20px;
+    height: 20px;
+    margin-right: 0.6rem;
+}
+
+#copyright{
+    font-size: 0.8rem;
+    margin-bottom: 0.5rem;
+}
